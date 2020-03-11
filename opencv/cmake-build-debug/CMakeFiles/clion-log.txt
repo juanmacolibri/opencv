@@ -1,0 +1,4 @@
+/snap/clion/99/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/juanma/CLionProjects/opencv
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/juanma/CLionProjects/opencv/cmake-build-debug
